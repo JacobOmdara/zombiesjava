@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ Its\ a\ wall,\ sets\ boundaries\ of\ buildings\r\n\ \r\n\ @author\ (Daniel)\r\n
+comment1.params=type
+comment1.target=Wall(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

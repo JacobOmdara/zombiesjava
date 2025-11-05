@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IntroLore
+comment0.text=\r\n\ The\ world\ of\ introlore,\ \r\n\ \r\n\ @author\ (Jacob,\ AUDIO\ is\ daniel\ and\ jacob\ )\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=IntroLore()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IntroLore.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ basically\ timed\ sequences\ of\ lore/story.\r\n
+comment3.params=
+comment3.target=void\ section1()
+comment3.text=\r\n\ All\ sections\ below\ follow\ a\ system\ timer,\ and\ are\ timed\ sequences.\ \r\n\ Section\ 1\ describes\ the\ characters\ walking\ in.\r\n
+comment4.params=
+comment4.target=void\ section2()
+comment4.text=\r\n\ section\ 2\ has\ the\ characters\ zoomed\ in,\ and\ are\ about\ to\ start\ conversation\r\n
+comment5.params=
+comment5.target=void\ section3()
+comment5.text=\r\n\ section\ 3\ has\ conversation\ objects,\ which\ start\ a\ conversation\ between\ each\ other.\r\n
+comment6.params=
+comment6.target=void\ section4()
+comment6.text=\r\n\ section\ 4\ has\ the\ characters\ zoomed\ out,\ and\ they\ walk\ off\ the\ map.\r\n
+numComments=7

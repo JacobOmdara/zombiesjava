@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LorePerson
+comment0.text=\r\n\ is\ an\ object\ person\ in\ the\ lore\ world\r\n\ @author\ (Jacob)\ \r\n
+comment1.params=person
+comment1.target=LorePerson(int)
+comment1.text=\r\n\ Constructor,\ passes\ in\ a\ specific\ integer\ and\ saves\ it\r\n\ param\ int\ person\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ section1()
+comment3.text=\r\n\ it\ will\ cause\ the\ player\ on\ the\ right\ to\ move\r\n
+comment4.params=
+comment4.target=void\ section2()
+comment4.text=\r\n\ it\ will\ scale\ the\ lore\ person\ up,\ and\ will\ set\ the\ new\ location\r\n
+comment5.params=
+comment5.target=void\ section3()
+comment5.text=\r\n\ removes\ lore\ person\r\n
+numComments=6

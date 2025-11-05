@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=OldMan
+comment0.text=\r\n\ @author\:\ Victor\r\n
+comment1.params=playerHealth\ speed\ direction\ armour\ tag\ classType
+comment1.target=OldMan(int,\ double,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ OldMan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ method\ is\ a\ method\ that\ represents\ this\ survivor\ class's\ upgrades.\ Each\ survivor\ class\ myUpgrade\ method\ has\ different\ effects.\r\n
+comment4.params=
+comment4.target=void\ normalMode()
+comment5.params=
+comment5.target=void\ rageMode()
+comment6.params=
+comment6.target=void\ myUpgrade()
+numComments=7

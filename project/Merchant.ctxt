@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Merchant
+comment0.text=\r\n\ it\ is\ an\ npc\ to\ buy\ shops\r\n\ \r\n\ @author\ (no\ one\ lol)\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Merchant\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

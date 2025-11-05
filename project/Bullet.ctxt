@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ @author\:\ Victor,\ graphics\ Jacob\r\n
+comment1.params=z\ owner\ damage
+comment1.target=Bullet(Zombie,\ Human,\ int)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=Human\ getOwner()
+comment4.text=\r\n\ This\ method\ returns\ the\ actor\ that\ was\ spawned\ the\ bullet\r\n\ @\ returns\ the\ Human\ that\ spawned\ it\r\n
+comment5.params=
+comment5.target=void\ checkZombie()
+comment5.text=\r\n\ This\ method\ checks\ whether\ the\ bullet\ has\ touched\ a\ zombie\ or\ not.\r\n\ It\ also\ does\ damage\ to\ the\ zombie\ it\ touches\ and\ manages\ if\ it\ should\ die\ or\ not\r\n
+numComments=6

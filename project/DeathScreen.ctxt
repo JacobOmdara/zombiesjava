@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DeathScreen
+comment0.text=\r\n\ When\ a\ character\ dies,\ this\ world\ will\ be\ generated\ \r\n\ \r\n\ @author\ (Jacob\ (all)\ )\ \r\n
+comment1.params=player
+comment1.target=DeathScreen(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DeathScreen.\r\n
+comment2.params=
+comment2.target=void\ stopped()
+comment2.text=\r\n\ when\ the\ world\ is\ paused,\ the\ music\ stops\ \r\n\ \r\n
+numComments=3
